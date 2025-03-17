@@ -9,9 +9,9 @@ The goal of this coding exam is to quickly get you off the ground with **setStat
 </div>
 
 <br/>
-https://showcaserev.ccbp.tech/
 
-**Failure View**
+**success View**
+https://showcaserev.ccbp.tech/
 <br/>
 
 ### Design Files
