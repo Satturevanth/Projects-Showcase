@@ -10,7 +10,7 @@ The goal of this coding exam is to quickly get you off the ground with **setStat
 
 <br/>
 
-**success View**
+**Success View**
 https://showcaserev.ccbp.tech/
 <br/>
 
